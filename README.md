@@ -1,1 +1,1 @@
-# This is my collection of small games made Raylib C# binding
+## This is my collection of small games made with Raylib C# binding
